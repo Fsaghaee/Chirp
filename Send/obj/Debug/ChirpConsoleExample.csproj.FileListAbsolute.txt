@@ -1,0 +1,83 @@
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farzadsaghaee\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojResolveAssemblyReference.cache
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\Nextcloud\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\bin\Debug\ChirpSDK-x32.dll
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\bin\Debug\Newtonsoft.Json.dll
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+X:\Farzad-PC\AppProjects\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\New folder\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.exe
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.exe
+C:\Users\hadir\OneDrive\Desktop\ChirpConsoleExample (11)\ChirpConsoleExample\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farza\OneDrive\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\obj\Debug\ChirpConsoleExample.exe
+C:\Users\Amirhesam Samira\Downloads\monster IPV4\Project Final\Project Final\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\farza\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.exe
+C:\Users\farza\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\farza\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe
+C:\Users\farza\Desktop\Project Final\Project Final\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\farza\Desktop\Project Final\Project Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farza\Desktop\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe.config
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\bin\Debug\ChirpConsoleExample.exe
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\bin\Debug\ChirpConsoleExample.pdb
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csprojAssemblyReference.cache
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\obj\Debug\ChirpConsoleExample.csproj.CopyComplete
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\obj\Debug\ChirpConsoleExample.exe
+C:\Users\Amirhesam Samira\Downloads\Telegram Desktop\Farzad project 2021\Project Final\Project Final\obj\Debug\ChirpConsoleExample.pdb
